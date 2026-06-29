@@ -1,0 +1,14 @@
+.nocolorb {background: none; border: none; padding: 0;}
+
+.lightblue {filter: brightness(120%) contrast(150%) hue-rotate(60deg) saturate(200%);}
+.blue {filter: invert(0.1) brightness(120%) contrast(150%) hue-rotate(90deg);}
+.cyan {filter: invert(0.1) brightness(120%) contrast(150%) hue-rotate(50deg);}
+.red {filter: invert(0.1) brightness(120%) contrast(150%) hue-rotate(222deg);}
+.purple {filter: brightness(80%) grayscale(20%) hue-rotate(130deg) saturate(200%);}
+.green {filter: invert(0.1) brightness(120%) contrast(150%) hue-rotate(360deg);}
+.yellow {filter: invert(0.1) brightness(120%) contrast(150%) hue-rotate(260deg);}
+.orange {filter: invert(0.1) brightness(120%) contrast(200%) hue-rotate(240deg);}
+.beige {filter: invert(0.1) brightness(120%) contrast(100%) hue-rotate(240deg);}
+.lightgray {filter: invert(0.1) brightness(120%) contrast(150%) grayscale(100%);}
+.pink {filter: invert(0.1) brightness(120%) contrast(100%) hue-rotate(166deg);}
+
