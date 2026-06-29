@@ -162,13 +162,13 @@ footer {
     font-weight: 500;
     display: flex;
     padding: 10px 10px;
-    margin: 20px auto;
 }
 footer p {
     margin: 0;
     padding: 0;
     border-top: none;
     text-align: center;
+    margin-left: 10px;
 }
 footer p::after {display: none;}
 footer img.avatar {
@@ -180,4 +180,7 @@ footer img.avatar {
 }
 footer img.avatar:hover {
     transform: scale(1.2);
+}
+footer p.created {
+    margin-left: 160px;
 }
